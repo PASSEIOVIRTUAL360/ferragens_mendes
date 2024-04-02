@@ -1,0 +1,50 @@
+#: locale=pt
+
+## E-Learning
+
+### Question Screen
+quizQuestion_87690A78_9DB3_B20F_41E3_2470C480B39C.ok = OK
+
+### Report Screen
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.title = - SCORE -
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.completion = Completed
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.questionsCorrect = Correct
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.downloadCSV = Download .csv
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.questionsIncorrect = Incorrect
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.items = Items Found
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.questions = Questions
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.repeat = Repeat
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.submitToLMS = Submit
+quizScore_87674A78_9DB3_B20F_41DB_08E752E1745C.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_87682A78_9DB3_B20F_41D1_1D71EF682F76.title = - TIMEOUT -
+quizTimeout_87682A78_9DB3_B20F_41D1_1D71EF682F76.repeat = Repeat
+quizTimeout_87682A78_9DB3_B20F_41D1_1D71EF682F76.score = View Score
+
+## Media
+
+### Audio
+audiores_8B47B5DA_9DB7_9600_41E0_BCF7A0583247.mp3Url = media/audio_8CDDA0A5_9DB3_AE01_41B1_6F583C58D24E_pt.mp3
+
+### Title
+panorama_917EF96D_9C29_EE26_41DC_BFA9D485C5DF.label = Ferragens Mendes  (1) (1)
+panorama_912086B5_9C26_A221_41D0_A3CABCE041AC.label = Ferragens Mendes  (10)
+panorama_91209D56_9C29_E663_4195_FE2A87480B30.label = Ferragens Mendes  (2) (2)
+panorama_912080DA_9C29_DE63_41DE_139C37BAB1F0.label = Ferragens Mendes  (3)
+panorama_912FEAD0_9C29_A27E_418F_8DF513E816E0.label = Ferragens Mendes  (4)
+panorama_912004AB_9C29_A622_41D6_1E3829649550.label = Ferragens Mendes  (5)
+panorama_912FAE48_9C29_A26F_41E0_1D7CB37020D8.label = Ferragens Mendes  (6)
+panorama_9120397A_9C26_6E22_41D2_2CD4F891DC9B.label = Ferragens Mendes  (7)
+panorama_91204391_9C26_62E1_41B5_FE6AF0170297.label = Ferragens Mendes  (8)
+panorama_91207D46_9C26_6662_41C1_ED2EFC2720DB.label = Ferragens Mendes  (9)
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SITE360_FERRAGENS_MENDES
